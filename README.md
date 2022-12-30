@@ -17,6 +17,9 @@ Refresh the webpage.
 
 ## What's modified
 Header style
+
 Nav bar style (blur effect, height)
+
 Cards become transparent
+
 Modded animation curve
