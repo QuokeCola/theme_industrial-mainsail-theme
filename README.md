@@ -18,7 +18,7 @@ Refresh the webpage.
 ## What's modified
 Header style
 
-Nav bar style (blur effect, height)
+Nav bar style (blurry effect, height)
 
 Cards become transparent
 
